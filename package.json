@@ -1,9 +1,9 @@
 {
-   "name": "plugin-template",
-   "description": "Template for enmity plugins.",
-   "version": "1.0.0",
+   "name": "BadgeDB",
+   "description": "Badge yourself up",
+   "version": "0.0.0-chk.manifest",
    "license": "GPL-3.0",
-   "author": "Zoey & eternal",
+   "author": "French Cat",
    "scripts": {
       "build": "rollup -c --configPlugin esbuild"
    },

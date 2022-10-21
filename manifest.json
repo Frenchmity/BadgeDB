@@ -1,11 +1,11 @@
 {
-   "name": "SilentTyping",
+   "name": "BadgeDB",
    "version": "1.0.0",
-   "description": "Silences your typing indicator.",
+   "description": "Badge yourself up",
    "authors": [
       {
-         "name": "eternal",
-         "id": "263689920210534400"
+         "name": "French Cat",
+         "id": "811770910624579584"
       }
    ]
 }
