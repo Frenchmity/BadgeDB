@@ -134,7 +134,8 @@ const BadgeDB: Plugin = {
           'Cache-Control': 'no-cache'
         }
       }).then(r => r.json()).catch(() => { });
-    
+   
+      console.log(res)
       return res;
     }
 };

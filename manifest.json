@@ -2,6 +2,7 @@
    "name": "BadgeDB",
    "version": "1.0.0",
    "description": "Badge yourself up",
+   "sourceUrl": "https://badgedb.enmity.frcat.xyz/dist/BadgeDB.js",
    "authors": [
       {
          "name": "French Cat",
