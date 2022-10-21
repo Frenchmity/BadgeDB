@@ -13,7 +13,7 @@ interface Badge {
   url: string;
 }
 
-const Patcher = create('badges');
+const Patcher = create('badgedb');
 
 
 const BadgeDB: Plugin = {
